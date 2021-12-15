@@ -3,9 +3,9 @@
     <div>
       <div class="header" flex="main:justify cross:center">
         <div class="label">欢迎使用耳仔翻译器。
-          <br>耳仔直播QQ群：<a target="_blank" class="copyJs" data-clipboard-text="1143106153">1143106153</a>
-          <br>B站账号<a target="_blank" class="copyJs" data-clipboard-text="UID:745463">UID:745463</a>
-          <br>B站直播房间号：<a target="_blank" class="copyJs" data-clipboard-text="22800732">22800732</a>
+          <br>耳仔直播QQ群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=3O7u4ch54NyJOYWdfF_P4wl6abbLFnjY&jump_from=webapi">1143106153</a>
+          <br>B站账号：<a target="_blank" href="https://space.bilibili.com/745463">UID:745463</a>
+          <br>B站直播间：<a target="_blank" href="https://live.bilibili.com/22800732?spm_id_from=333.999.0.0">房间号：22800732</a>
         </div>
       </div>
       <div class="input">
