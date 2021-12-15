@@ -26,6 +26,7 @@ body {
   background-color: rgba(0, 0, 0, .04) !important;
   overflow-y: auto;
   overflow-y: overlay;
+  height: 100vh;
 }
 
 h1 {
