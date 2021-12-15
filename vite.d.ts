@@ -1,0 +1,6 @@
+declare module 'postcss-nested'
+declare module 'autoprefixer'
+declare module 'postcss-scss'
+declare module 'postcss-calc'
+declare module 'vite'
+declare module 'postcss-advanced-variables'

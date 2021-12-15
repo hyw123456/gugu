@@ -1,0 +1,46 @@
+{
+  "name": "adminproject",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit --skipLibCheck --removeComments && vite build",
+    "serve": "vite preview",
+    "lint": "eslint src/**/*.{js,jsx,vue,ts,tsx} --fix"
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "^6.0.1",
+    "ant-design-vue": "^3.0.0-alpha.3",
+    "axios": "^0.23.0",
+    "clipboard": "^2.0.8",
+    "echarts": "^5.2.1",
+    "flex.css": "^1.1.7",
+    "moment": "^2.29.1",
+    "vant": "^3.3.7",
+    "vue": "^3.2.16",
+    "vue-router": "^4.0.0-0",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.1",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "@vitejs/plugin-vue": "^1.9.3",
+    "autoprefixer": "^10.3.7",
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-vue": "^7.19.1",
+    "postcss-advanced-variables": "^3.0.1",
+    "postcss-calc": "^8.0.0",
+    "postcss-nested": "^5.0.6",
+    "postcss-scss": "^4.0.1",
+    "typescript": "^4.4.3",
+    "unplugin-vue-components": "^0.15.6",
+    "vite": "^2.6.4",
+    "vite-plugin-eslint": "^1.3.0",
+    "vite-plugin-style-import": "^1.2.1",
+    "vue-tsc": "^0.3.0"
+  }
+}
