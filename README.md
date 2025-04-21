@@ -11,7 +11,7 @@ npm install
 npm run dev
 ```
 
-这是一个demo 示例(http://106.14.123.83:4000/)
+这是一个demo 示例(http://117.72.125.63/)
 如果可以点点关注/star！
 
 The possibilities are endless.
