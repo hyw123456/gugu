@@ -2,7 +2,7 @@
   <div class="gugu" flex="dir:top main:justify">
     <div>
       <div class="header" flex="main:justify cross:center">
-        <div class="label">欢迎使用耳仔翻译器
+        <div class="label">欢迎使用咕语翻译器
           <br>明鸽不说暗话：о̆古о̌古о̄古о̂古 о̇古咕о̋古о̉古 ӧ古о̍古о̅古о̎古
           <!-- <br>耳仔直播QQ群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=3O7u4ch54NyJOYWdfF_P4wl6abbLFnjY&jump_from=webapi">1143106153</a>
           <br>B站账号：<a target="_blank" href="https://space.bilibili.com/745463">UID:745463</a>
